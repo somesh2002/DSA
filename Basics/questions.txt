@@ -1,0 +1,6 @@
+
+9) There are two arrays of numbers. Output the (a) union of numbers in the arrays (b) intersection of numbers in the arrays
+12) Write a C program to check if a number has three consecutive 5s.
+If yes, print YES, else print NO.
+Example: Number: 1353554 Result: NO
+Number: 345559 Result: YES
